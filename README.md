@@ -1,2 +1,2 @@
 # KapiKontrol
-Unity için kapıacma/kapama projesidir.
+Unity için kapıaçma/kapama projesidir.
